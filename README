@@ -1,0 +1,17 @@
+a. Daniel Cole
+b. 1870787
+c. cole149@mail.chapman.edu
+d. CPSC356
+e. Final Project
+
+App that pulls user's 9 most recent photos from instagram and allows you to change it as your wallpaper upon pressing.
+Currently, my app is in Sandbox Mode on the Instagram API Developers website. I've registered to get out of it, but it isn't guaranteed that I will.
+With that being said, Sandbox Mode limits you to only accessing data from users whose accounts you have access to. Therefore right now the only accounts in
+question are my personal one (@fucklifesucksbro) and my band's account (@buddhatrixie).
+
+While this functionality is someone limited in terms of real world applicability, I think it still demonstrates my understanding of APIs to make it impressive. I understand how I would deal with using a search bar, but unfortunately had to take it out.
+
+After downloading the image as a bitmap, it is cropped to be centered. As of now this cannot be altered.
+Also, if i get an 100 on this project I get an A in the class so I hope you like this :)
+
+-Daniel Cole
